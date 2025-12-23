@@ -1,0 +1,3 @@
+/home/noerlol/Collaborative-Projects/top-10-biggest-tips/CMakeFiles/DataManipulationVisualizer.dir
+/home/noerlol/Collaborative-Projects/top-10-biggest-tips/CMakeFiles/edit_cache.dir
+/home/noerlol/Collaborative-Projects/top-10-biggest-tips/CMakeFiles/rebuild_cache.dir

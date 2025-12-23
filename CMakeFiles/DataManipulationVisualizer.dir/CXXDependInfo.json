@@ -1,0 +1,30 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "Clang",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"database-info" : null,
+	"dir-cur-bld" : "/home/noerlol/Collaborative-Projects/top-10-biggest-tips",
+	"dir-cur-src" : "/home/noerlol/Collaborative-Projects/top-10-biggest-tips",
+	"dir-top-bld" : "/home/noerlol/Collaborative-Projects/top-10-biggest-tips",
+	"dir-top-src" : "/home/noerlol/Collaborative-Projects/top-10-biggest-tips",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : 
+	[
+		"include"
+	],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/noerlol/Collaborative-Projects/top-10-biggest-tips/CMakeFiles/DataManipulationVisualizer.dir",
+	"sources" : 
+	{
+		"CMakeFiles/DataManipulationVisualizer.dir/src/cpp/main.cpp.o" : 
+		{
+			"language" : "CXX",
+			"source" : "/home/noerlol/Collaborative-Projects/top-10-biggest-tips/src/cpp/main.cpp"
+		}
+	}
+}
