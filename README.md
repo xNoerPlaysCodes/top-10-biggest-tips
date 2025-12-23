@@ -9,5 +9,6 @@ xNoerPlaysCodes
 Tryhard-source
 
 ### Libraries
-- cpp:RocketGE
+- c:Raylib
+- cpp:raylib-cpp
 - py:Pandas
